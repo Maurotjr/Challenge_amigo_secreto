@@ -21,15 +21,17 @@ O projeto possui as seguintes funcionalidades:
 ## 📦 **Como Rodar o Projeto**
 
 ### 1. Abra o Projeto no Navegador
+
 O projeto é simples e não requer nenhum servidor para rodar. Basta abrir o arquivo index.html diretamente no navegador:
 
 Navegue até o diretório do projeto.
 Abra o arquivo index.html em qualquer navegador moderno (Chrome, Firefox, Edge, etc).
 
-#### 2. Comece a Usar
-Adicionar Amigos: Digite o nome de um amigo no campo de texto e clique em "Adicionar".
-Sortear Amigo Secreto: Clique em "Sortear amigo" para realizar o sorteio.
-Ver Resultado: O nome do amigo sorteado será exibido logo abaixo do botão.
+### 2. Comece a Usar
+
+- **Adicionar Amigos**: Digite o nome de um amigo no campo de texto e clique em "Adicionar".
+- **Sortear Amigo Secreto**: Clique em "Sortear amigo" para realizar o sorteio.
+- **Exibição do Resultado**: O nome do amigo sorteado será exibido logo abaixo do botão.
 
 
 ## Autores
